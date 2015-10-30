@@ -1,0 +1,9 @@
+{
+	"namespace": "net.mkrcah.avro",
+	"type": "record",
+	"name": "Tweet",
+	"fields": [
+        {"name": "name", "type": "string"},
+		{"name": "text", "type": "string"}
+	]
+}
