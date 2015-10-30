@@ -1,4 +1,6 @@
-CSYE7374_FinalProject_ Group3
+ Designed an application to stream sentiment of tweets by providing the twitter topic (#hashtag) as input by using Kafka and Twitter API.
+ Engineered Spark streaming in Scala to process the sentiments using the Stanford CoreNLP libraries.
+ Showcased the visualization of the sentiments of tweets in near real time using Plotly
 
 Deployment Instructions
 
